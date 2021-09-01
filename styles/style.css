@@ -145,13 +145,12 @@ a:hover
 	{
 		position: absolute;
 		left: 50%;
-   	top: 50%;
-    transform: translate(-50%, -50%);
-	}
-	.title
-	{
-		font-size: 1.6rem;
-	}
+   		top: 50%;
+  		transform: translate(-50%, -50%);
+	h1
+  	{
+		 font-size: 1.6rem; 
+  	}
 	.card-content
 	{
 		padding: 1.5rem;
