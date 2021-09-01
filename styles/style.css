@@ -171,6 +171,11 @@ a:hover
 	{ 
 		color: hsl(228, 45%, 44%); 
 	}
+	.button-cancel
+	{
+		padding: .2em;
+		padding-bottom: 0rem;
+	}
 }
 
 
