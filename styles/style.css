@@ -98,6 +98,7 @@ a.pay
 .button-cancel
 {
 	padding: .2em;
+	padding-bottom: 2rem;
 }
 a.cancel
 {
