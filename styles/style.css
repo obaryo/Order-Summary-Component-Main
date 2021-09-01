@@ -41,10 +41,13 @@ img
 {
 	text-align: center;
 }
-.title
+h1
 {
 	font-size: 1.3rem; 
 	font-weight: 900;
+}
+.title
+{
 	padding: 1.4rem;
 	color: #1F2F56;
 }
