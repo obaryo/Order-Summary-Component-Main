@@ -55,6 +55,11 @@ h1
 {
 	padding: 0rem 2.2rem 2.2rem;
 	color: #7280A7;
+}
+h3
+{
+	font-size: 16px;
+	font-weight: 500;
 	line-height: 1.5rem;
 }
 .Annual-Plan
@@ -76,10 +81,15 @@ p
 	color: #7280A7;
 	padding: 0rem 2rem;
 }
+.year
+{
+	font-size: 14px;
+	font-weight: 700;
+}
 .change
 {
 	padding-top: .9rem;
-	font-size: 14px;
+	font-size: 13px;
 	font-weight: 700;
 }
 .button-pay
