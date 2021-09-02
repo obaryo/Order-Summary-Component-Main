@@ -57,7 +57,7 @@ h1
 	padding: 0rem 2.2rem 2.2rem;
 	color: #7280A7;
 }
-h3
+.p
 {
 	font-size: 16px;
 	font-weight: 500;
@@ -70,7 +70,7 @@ h3
 	justify-content: flex-start;
 	padding: 0rem 2rem 1rem;
 }
-p
+.Plan
 {
 	color: #1F2F56;
 	font-weight: 900;
