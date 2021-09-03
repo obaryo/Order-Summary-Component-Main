@@ -38,20 +38,6 @@ Users should be able to:
 I understand even more the use of max-width, and to make the main container properly centered and responsive by using transform:translate, though I 
 still have not fully grasped the use of it I will study it on my next projects.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
 ### Useful resources
 
 - [BitDegree](https://www.bitdegree.org/learn/responsive-image) - This helped me to tweak my background image so I could follow the given design. 
